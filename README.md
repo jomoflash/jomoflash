@@ -68,7 +68,7 @@ DevOps Engineer 👨‍💻 <br/> Web Developer || Curious 🦋
 [website]: https://jomoflash.com
 [twitter]: https://twitter.com/jomoflash
 [linkedin]: https://www.linkedin.com/in/jomoflash
-[gmail]: mailto:hello@jomoflash.com
+[gmail]: mailto:hi@jomoflash.com
 
 <!-- ### Other infos:
 
