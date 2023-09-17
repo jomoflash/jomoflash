@@ -1,6 +1,9 @@
 # Hi there! I'm [James Emmanuel <img width="27px" src="./butterfly.png" />][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-DevOps Engineer 👨‍💻 <br/> Web Developer || Curious 🦋
+##### Integration & DevOps Engineer 👨‍💻 
+cooking magic || staying Curious 🦋
+
+James is a highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, Docker, Ansible, Jenkins, Openshift, and IBM API Connect. He excels in developing and automating diverse services using various programming languages and cloud-native tools. With extensive experience as a software and server infrastructure engineer, he seamlessly integrates software development and infrastructure management. James is dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on containerization technologies.
 
 #### **Connect with me!** <br/>
 
