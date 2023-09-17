@@ -3,7 +3,7 @@
 #### __Integration & DevOps Engineer__ 👨‍💻   
 cooking magic | staying Curious 🦋
 
-A highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, Docker, Ansible, Jenkins, Openshift, and IBM API Connect. Highly competent in developing and automating diverse services using various programming languages and cloud-native tools. With extensive experience as a software and system design engineer, seamlessly integrating software development and infrastructure management. I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on containerization technologies.
+A highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, Docker, Ansible, Jenkins, Openshift, and IBM API Connect. Highly competent in developing and automating diverse services using various programming languages and cloud-native tools. With extensive experience as a software and system engineer, seamlessly integrating software development and infrastructure management. I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on containerization technologies.
 
 #### **Connect with me!** <br/>
 
