@@ -2,7 +2,7 @@
 
 #### __DevOps | Cloud | Application Integration__ 👨‍💻   
 
-A highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, Jenkins, Openshift, and IBM API Connect. Excels in developing and automating diverse services using various development and cloud-native tools. With extensive experience as a software and cloud engineer, I seamlessly integrate software development and services deployment. I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on microservices architecure and technologies.
+A highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, Jenkins, Openshift, and IBM API Connect. Excels in developing and automating diverse services using various development and cloud-native tools. With extensive experience as a software and cloud engineer, I seamlessly integrate software development and services deployment. I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on microservices architecture and technologies.
 
 #### **Connect with me!** <br/>
 
