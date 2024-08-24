@@ -25,8 +25,8 @@ DevOps and Integration engineer with expertise in leading-edge technologies like
 <h2 align="center"> 👨‍💻 Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,openshift,amazonwebservices,kubernetes,redhat" />
-    <img src="https://skillicons.dev/icons?i=python,ansible,terraform,javascript,ts,java,mysql,docker,prometheus,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,nestjs,vscode,github,git,openshift,redhat,linux,amazonwebservices,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=ansible,terraform,python,ts,scala,java,mysql,docker,prometheus,jenkins" /><br>
 </div>
 
 <br/>
@@ -46,31 +46,8 @@ DevOps and Integration engineer with expertise in leading-edge technologies like
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jomoflash&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
-<!--
-#### **Connect with me!** <br/>
-
-[<img align="center" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
-[<img align="center" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="center" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
-
 [website]: https://jomoflash.com
 [twitter]: https://twitter.com/jomoflash
 [linkedin]: https://www.linkedin.com/in/jomoflash
 [gmail]: mailto:hi@jomoflash.com
--->
 
-<!--
-**jomoflash/jomoflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
