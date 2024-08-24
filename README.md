@@ -31,12 +31,6 @@ DevOps and Integration engineer with expertise in leading-edge technologies like
 
 <br/>
 
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jomoflash&theme=blueberry&hide_border=&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jomoflash&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jomoflash&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <h2 align="center"> 🎯 GitHub Stats </h2>
 <br>
 <div align=center>
