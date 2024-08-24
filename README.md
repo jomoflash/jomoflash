@@ -4,13 +4,13 @@
 
 DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient and scalable infrastructures with a special focus on implementing distributed systems.
 
-<div align="center">
+
 #### **Connect with me!** <br/>
 
-[<img align="left" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
-</div>
+[<img align="center" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
+[<img align="center" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="center" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+
 <br/>
 
 ---
@@ -43,11 +43,11 @@ DevOps and Integration engineer with expertise in leading-edge technologies like
 [linkedin]: https://www.linkedin.com/in/jomoflash
 [gmail]: mailto:hi@jomoflash.com
 
-<!-- ### Other infos:
+### Other infos:
 
 [![Visits Badge](https://badges.pufler.dev/visits/jomoflash/jomoflash)](https://badges.pufler.dev)
 [![Years bieng member Badge](https://badges.pufler.dev/years/jomoflash)](https://badges.pufler.dev)
-[![Public Repos Badge](https://badges.pufler.dev/repos/jomoflash)](https://badges.pufler.dev) -->
+[![Public Repos Badge](https://badges.pufler.dev/repos/jomoflash)](https://badges.pufler.dev)
 
 <!--
 **jomoflash/jomoflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
