@@ -2,61 +2,24 @@
 
 #### __DevOps | Cloud | Application Integration__ 👨‍💻   
 
-A highly proficient DevOps engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools. With extensive experience as a software and cloud engineer, I seamlessly integrate software development and services deployment. I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient, scalable infrastructures with a special focus on microservices architecture and technologies.
+DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient and scalable infrastructures with a special focus on implementing distributed systems.
 
-#### **Connect with me!** <br/>
-
-[<img align="left" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+<div align="center">
+    #### **Connect with me!** <br/>
+    
+    [<img align="left" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
+    [<img align="left" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
+    [<img align="left" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+</div>
 <br/>
 
 ---
-
-### **My Stack**
-
-#### Languages:
-
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### Application and Data:
-
-![VueJS](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-#### DevOps:
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
-
-#### QA & Testing
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-
-#### Utilities:
-
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+<h2 align="center"> 👨‍💻 Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,openshift,amazonwebservices,kubernetes,redhat" />
+    <img src="https://skillicons.dev/icons?i=python,ansible,terraform,javascript,ts,java,mysql,docker,prometheus,jenkins" /><br>
+</div>
 
 <br/>
 
@@ -66,7 +29,14 @@ A highly proficient DevOps engineer with expertise in leading-edge technologies 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jomoflash&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jomoflash&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jomoflash&theme=dracula&hide_border=true) -->
+<h2 align="center"> 🎯 GitHub Stats </h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jomoflash&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jomoflash&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jomoflash&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 [website]: https://jomoflash.com
 [twitter]: https://twitter.com/jomoflash
