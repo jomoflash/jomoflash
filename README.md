@@ -5,11 +5,11 @@
 DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient and scalable infrastructures with a special focus on implementing distributed systems.
 
 <div align="center">
-    #### **Connect with me!** <br/>
-    
-    [<img align="left" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
-    [<img align="left" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
-    [<img align="left" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+#### **Connect with me!** <br/>
+
+[<img align="left" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
 </div>
 <br/>
 
