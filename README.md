@@ -4,12 +4,20 @@
 
 DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, I am dedicated to assisting traditional IT companies in their cloud transition and establishing resilient and scalable infrastructures with a special focus on implementing distributed systems.
 
-
-#### **Connect with me!** <br/>
-
-[<img align="center" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
-[<img align="center" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="center" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+<div align="center"> 
+  <a href="mailto:hi@jomoflash.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discord.gg/JXU5EwSJ">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jomoflash/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://jomoflash.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <br/>
 
@@ -38,16 +46,19 @@ DevOps and Integration engineer with expertise in leading-edge technologies like
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jomoflash&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+<!--
+#### **Connect with me!** <br/>
+
+[<img align="center" alt="jomoflash | LinkedIn" width="21px" src="./linkedin.svg" />][linkedin]
+[<img align="center" alt="jomoflash | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="center" alt="hello | Gmail" width="22px" src="./gmail.svg" />][gmail]
+
 [website]: https://jomoflash.com
 [twitter]: https://twitter.com/jomoflash
 [linkedin]: https://www.linkedin.com/in/jomoflash
 [gmail]: mailto:hi@jomoflash.com
-
-### Other infos:
-
-[![Visits Badge](https://badges.pufler.dev/visits/jomoflash/jomoflash)](https://badges.pufler.dev)
-[![Years bieng member Badge](https://badges.pufler.dev/years/jomoflash)](https://badges.pufler.dev)
-[![Public Repos Badge](https://badges.pufler.dev/repos/jomoflash)](https://badges.pufler.dev)
+-->
 
 <!--
 **jomoflash/jomoflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
