@@ -2,7 +2,7 @@
 
 #### __DevOps | Cloud | Application Integration__ 👨‍💻   
 
-DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, Fluent in establishing resilient and scalable infrastructures with a special focus on implementing distributed systems.
+DevOps and Integration engineer with expertise in leading-edge technologies like Kubernetes, OpenShift and IBM Cloud Pak for Integration. Excels in developing and automating diverse services using various development and cloud-native tools with extensive experience as a Cloud Infrastructure and Software Engineer, Fluent in establishing resilient and scalable infrastructures with a special focus on distributed systems.
 
 <div align="center"> 
   <a href="mailto:hi@jomoflash.com">
